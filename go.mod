@@ -14,3 +14,5 @@ require (
 	github.com/prometheus/client_golang v1.11.0
 	github.com/stretchr/testify v1.7.0
 )
+
+replace github.com/syndtr/gocapability => github.com/andre-campos/gocapability v1.0.0
